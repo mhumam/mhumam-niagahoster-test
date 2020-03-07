@@ -1,0 +1,75 @@
+{
+    "package": [
+        {
+            "name": "Bayi",
+            "beforediscount": "Rp. 19.900",
+            "afterdiscount": "Rp. 14.900",
+            "user": "938",
+            "feature": [
+                "0.5X Resource Power",
+                "500 MB Disk Space",
+                "Unlimited Bandwidth",
+                "Unlimited Database",
+                "1 Domain",
+                "Instant Backup",
+                "Unlimited SSL Gratis Selamanya"
+            ]
+        },
+        {
+            "name": "Pelajar",
+            "beforediscount": "Rp. 46.900",
+            "afterdiscount": "Rp. 23.450",
+            "user": "4.168",
+            "feature": [
+                "1X  Resource Power",
+                "Unlimited Disk Space",
+                "Unlimited Bandwidth",
+                "Unlimited POP3 Email",
+                "Unlimited Database",
+                "10 Addons Domain",
+                "Instant Backup",
+                "Domain Gratis Selamaanya",
+                "Unlimited SSL Gratis Selamanya"
+            ]
+        },
+        {
+            "name": "Personal",
+            "beforediscount": "Rp. 58.900",
+            "afterdiscount": "Rp. 38.450",
+            "user": "10.017",
+            "feature": [
+                "2X  Resource Power",
+                "Unlimited Disk Space",
+                "Unlimited Bandwidth",
+                "Unlimited POP3 Email",
+                "Unlimited Database",
+                "Unlimited Addons Domain",
+                "Instant Backup",
+                "Domain Gratis Selamaanya",
+                "Unlimited SSL Gratis Selamanya",
+                "Private Name Server",
+                "SpamAssasin Mail Protection"
+            ]
+        },
+        {
+            "name": "Bisnis",
+            "beforediscount": "Rp. 109.900",
+            "afterdiscount": "Rp. 65.450",
+            "user": "3.552",
+            "feature": [
+                "3X  Resource Power",
+                "Unlimited Disk Space",
+                "Unlimited Bandwidth",
+                "Unlimited POP3 Email",
+                "Unlimited Database",
+                "Unlimited Addons Domain",
+                "Instant Backup",
+                "Domain Gratis Selamaanya",
+                "Unlimited SSL Gratis Selamanya",
+                "Private Name Server",
+                "Spam Expert Pro Mail Protection",
+                "Prioritas Layanan Support"
+            ]
+        }
+    ]
+}
